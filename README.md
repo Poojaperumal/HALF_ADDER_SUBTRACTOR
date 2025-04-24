@@ -75,7 +75,16 @@ Developed by:POOJA.P RegisterNumber: 212224100041
 **Output/TIMING Waveform**
 ![Screenshot 2025-04-24 153952](https://github.com/user-attachments/assets/742a5924-0fdf-47fd-a66c-d2332bdb7c1e)
 
+
+
+
+
 ![Screenshot 2025-04-24 181815](https://github.com/user-attachments/assets/a8b225b2-b480-41fa-bfec-cd5b0c9557d3)
+
+
+
+
+
 
 
 **Result:**
